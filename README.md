@@ -58,6 +58,6 @@ Vimos que los accidentes han disminuido significativamente (un 50,10%) pero la m
 
 También dimos un pequeño vistazo a través de la historia para recalcar la importancia de aplicar protocolos de seguridad y como a medida que la tecnología avanza vamos reduciendo la cantidad de catástrofes. Con la nueva seguridad queríamos reducir un 14,10% los accidentes y se redujo en un 19,65%.
 
-Finalmente hicimos un análisis sobre Rusia donde vimos como el país se abrió al ingreso de distintas empresas y estas al no tener los protocolos aplicados en la empresa Aeroflot, generaban muchos accidentes. Rusia quería reducir los accidentes un 42,86% en dos décadas y los redujo en un 43,90%
+Finalmente hicimos un análisis sobre Rusia donde vimos como el país se abrió al ingreso de distintas empresas y estas al no tener los protocolos aplicados como en la empresa Aeroflot, generaban muchos accidentes. Rusia quería reducir los accidentes un 42,86% en dos décadas y los redujo en un 43,90%
 
 Mi linkedin: https://www.linkedin.com/in/fabrizio-mazzucco-403b0825a
