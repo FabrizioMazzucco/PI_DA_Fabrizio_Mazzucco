@@ -1,4 +1,3 @@
-<p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p>
 
 <h1 align=center> **PROYECTO INDIVIDUAL Nº1** </h1>
 
@@ -26,6 +25,7 @@ En general los aviones con más accidentes son los Douglas, sin embargo estos av
 En Power Bi vimos los outliers y el único valor atípico que encontramos es el de muertos en tierra, puntualmente en 2001 cuando ocurre el accidente de las torres gemelas. También vemos una gran correlación en los graficos de muertes por año y de cantidad de gente a bordo por año, lo que quiere decir que mientras más gente a bordo en cada accidente más muertos van a haber.
 
 Finalmente la normalización de los datos (salvo de la columna hora hecha en python) la hicimos en Power Bi. Además en Power Bi hicimos un análisis más detallado para la implententación de los kpi.
+**Aclaracion** Para ver el informe del EDA descargar y abrir el archivo informe_eda.html
 
 2. *KPIS*
 
