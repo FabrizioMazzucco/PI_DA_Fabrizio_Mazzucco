@@ -4,6 +4,7 @@
 <p align=center><img src=https://media.telemundoarizona.com/2019/09/shutterstock-accidente-aereo-cifras.jpg?quality=85&strip=all&resize=1200%2C675><p>
 
 **Introducción:**
+
 Desde los albores de la civilización, el ser humano ha anhelado emular el vuelo de las aves y conquistar los cielos. En 1782, Joseph y Jacques Montgolfier materializaron este deseo al inventar el globo aerostático en Francia. Posteriormente, en 1852, Henri Giffard, también en Francia, diseñó el primer modelo de dirigible. El italiano Enrico Forlanini llevó la innovación un paso más allá al crear el primer prototipo de helicóptero, alcanzando los 13 metros de altura en 1877. En 1903, en Estados Unidos, Orville Wright marcó un hito al construir el primer avión del mundo. Finalmente, en 1957, la Unión Soviética lanzó el primer satélite al espacio. Esta fascinante odisea a lo largo del tiempo culmina en el uso cotidiano y comercial de estos grandes inventos en la actualidad. Sin embargo, surge la pregunta crucial: ¿Son realmente seguros?
 
 En este proyecto, desempeñamos el rol de analistas de datos trabajando para la Organización de Aviación Civil Internacional (OACI). Nuestra tarea consiste en llevar a cabo un análisis exhaustivo de los accidentes a lo largo de la historia, evaluando su frecuencia, la gravedad de los mismos y la efectividad de las medidas adoptadas. Para llevar a cabo este trabajo, hemos empleado Python, haciendo uso de las bibliotecas Pandas y Ydataprofiling, además de Power BI para la creación de gráficos que enriquecen nuestro análisis.
