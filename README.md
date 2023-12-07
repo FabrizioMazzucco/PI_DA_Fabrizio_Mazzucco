@@ -1,4 +1,3 @@
-<p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p>
 
 <h1 align=center> **PROYECTO INDIVIDUAL Nº1** </h1>
 
@@ -26,6 +25,8 @@ En general los aviones con más accidentes son los Douglas, sin embargo estos av
 En Power Bi vimos los outliers y el único valor atípico que encontramos es el de muertos en tierra, puntualmente en 2001 cuando ocurre el accidente de las torres gemelas. También vemos una gran correlación en los graficos de muertes por año y de cantidad de gente a bordo por año, lo que quiere decir que mientras más gente a bordo en cada accidente más muertos van a haber.
 
 Finalmente la normalización de los datos (salvo de la columna hora hecha en python) la hicimos en Power Bi. Además en Power Bi hicimos un análisis más detallado para la implententación de los kpi.
+
+**Aclaracion** Para ver el informe del EDA descargar y abrir el archivo informe_eda.html
 
 2. *KPIS*
 
@@ -57,6 +58,6 @@ Vimos que los accidentes han disminuido significativamente (un 50,10%) pero la m
 
 También dimos un pequeño vistazo a través de la historia para recalcar la importancia de aplicar protocolos de seguridad y como a medida que la tecnología avanza vamos reduciendo la cantidad de catástrofes. Con la nueva seguridad queríamos reducir un 14,10% los accidentes y se redujo en un 19,65%.
 
-Finalmente hicimos un análisis sobre Rusia donde vimos como el país se abrió al ingreso de distintas empresas y estas al no tener los protocolos aplicados en la empresa Aeroflot, generaban muchos accidentes. Rusia quería reducir los accidentes un 42,86% en dos décadas y los redujo en un 43,90%
+Finalmente hicimos un análisis sobre Rusia donde vimos como el país se abrió al ingreso de distintas empresas y estas al no tener los protocolos aplicados como en la empresa Aeroflot, generaban muchos accidentes. Rusia quería reducir los accidentes un 42,86% en dos décadas y los redujo en un 43,90%
 
 Mi linkedin: https://www.linkedin.com/in/fabrizio-mazzucco-403b0825a
